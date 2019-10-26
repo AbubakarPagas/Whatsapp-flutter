@@ -3,14 +3,10 @@
 A new Flutter project.
 
 ### Screenshots
-<Row>
- <column>
  <img src="pagas1.png" height="300em" /> 
- <column/>
- <column>
+
 <img src="pagas2.png" height="300em" />
-<column/>
- <Row>
+
 
 
 ### Created & Maintained By 
